@@ -1,4 +1,4 @@
-# offce-network
+# office-network using cisco packet tracer
 AIM: To create a simulation of a real-life network scenario using cisco packet tracer.
 
 COMPONENTS USED:
